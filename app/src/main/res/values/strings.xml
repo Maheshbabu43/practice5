@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">practice5</string>
+    <string-array name="semister">
+        <item>SEM-I</item>
+        <item>SEM-II</item>
+        <item>SEM-III</item>
+        <item>SEM-IV</item>
+        <item>SEM-V</item>
+        <item>SEM-VI</item>
+    </string-array>
+    <string-array name="section">
+        <item>ACP</item>
+        <item>NCP</item>
+        <item>DCP</item>
+    </string-array>
+    <string-array name="category">
+        <item>Select category</item>
+        <item>Student</item>
+        <item>Administrator</item>
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="subjects_1">
+        <item>English-I</item>
+        <item>Telugu-I</item>
+        <item>Maths-I</item>
+        <item>Physics-I</item>
+        <item>Computer science-I</item>
+        <item>Physics(P)-I</item>
+        <item>Computer science(P)-I</item>
+    </string-array>
+    <string-array name="subjects_2">
+        <item>English-II</item>
+        <item>Telugu-II</item>
+        <item>Maths-II</item>
+        <item>Physics-II</item>
+        <item>Computer science-II</item>
+        <item>Physics(P)-II</item>
+        <item>Computer science(P)-II</item>
+    </string-array>
+    <string-array name="subjects_3">
+        <item>English-III</item>
+        <item>Telugu-III</item>
+        <item>Maths-III</item>
+        <item>Physics-III</item>
+        <item>Computer science-III</item>
+        <item>Physics(P)-III</item>
+        <item>Computer science(P)-III</item>
+    </string-array>
+    <string-array name="subjects_4">
+        <item>English-IV</item>
+        <item>Telugu-IV</item>
+        <item>Maths-IV</item>
+        <item>Physics-IV</item>
+        <item>Computer science-IV</item>
+        <item>Physics(P)-IV</item>
+        <item>Computer science(P)-IV</item>
+    </string-array>
+    <string-array name="subjects_5">
+        <item>Maths-PI</item>
+        <item>Maths-PII</item>
+        <item>Physics-PI</item>
+        <item>Physics-PII</item>
+        <item>Computer science-PI</item>
+        <item>Computer science-PII</item>
+        <item>Physics(P)-PI</item>
+        <item>Physics(P)-PII</item>
+        <item>Computer science(P)-PI</item>
+        <item>Computer science(P)-PII</item>
+    </string-array>
+    <string-array name="subjects_6">
+        <item>Maths-VI</item>
+        <item>Physics-VI</item>
+        <item>Computer science-VI</item>
+        <item>Physics(P)-VI</item>
+        <item>Computer science(P)-VI</item>
+        <item>Computer science-CPI</item>
+        <item>Computer science-CPII</item>
+        <item>Computer science-CPIII</item>
+        <item>Computer science(P)-CPI</item>
+        <item>Computer science(P)-CPII</item>
+        <item>Computer science(P)-CPIII</item>
+    </string-array>
+</resources>
